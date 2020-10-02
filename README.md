@@ -24,3 +24,5 @@ Click on build.
 Licensed under Apache License Version 2
 
 OSBoard is based on AOSP LatineIME keyboard. You can get the original source code in https://android.googlesource.com/platform/packages/inputmethods/LatinIME/
+
+
